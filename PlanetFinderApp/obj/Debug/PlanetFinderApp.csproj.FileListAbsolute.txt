@@ -1,0 +1,9 @@
+E:\SEIP_Practice\PlanetFinderApp\PlanetFinderApp\bin\Debug\PlanetFinderApp.exe.config
+E:\SEIP_Practice\PlanetFinderApp\PlanetFinderApp\bin\Debug\PlanetFinderApp.exe
+E:\SEIP_Practice\PlanetFinderApp\PlanetFinderApp\bin\Debug\PlanetFinderApp.pdb
+E:\SEIP_Practice\PlanetFinderApp\PlanetFinderApp\obj\Debug\PlanetFinderApp.csprojResolveAssemblyReference.cache
+E:\SEIP_Practice\PlanetFinderApp\PlanetFinderApp\obj\Debug\PlanetFinderApp.PlanetUI.resources
+E:\SEIP_Practice\PlanetFinderApp\PlanetFinderApp\obj\Debug\PlanetFinderApp.Properties.Resources.resources
+E:\SEIP_Practice\PlanetFinderApp\PlanetFinderApp\obj\Debug\PlanetFinderApp.csproj.GenerateResource.Cache
+E:\SEIP_Practice\PlanetFinderApp\PlanetFinderApp\obj\Debug\PlanetFinderApp.exe
+E:\SEIP_Practice\PlanetFinderApp\PlanetFinderApp\obj\Debug\PlanetFinderApp.pdb
